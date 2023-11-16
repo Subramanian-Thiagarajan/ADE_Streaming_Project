@@ -2,7 +2,7 @@ from iot_hub_connector import sendToIotHub
 import asyncio, json, datetime, random, time
 
 if __name__ == "__main__":
-    connectionString = "HostName=iothub-bus-speed-tracking.azure-devices.net;DeviceId=bus3;SharedAccessKey=7koOjR+JjcWIpFVj132DwopOIBJr6V7XDAIoTP+6xlE="
+    connectionString = "HostName=iothub-bus-speed-tracking.azure-devices.net;DeviceId=bus3;SharedAccessKey=XXX"
     while True:
         speed = random.randint(110, 130)
         longitude = random.randint(-180, 180)
