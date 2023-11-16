@@ -35,3 +35,5 @@ Private intercity buses cross speeds of 120kmph+ often leading to accidents and 
 - Create Logic App and add the component as follows
   ![image](https://github.com/Subramanian-Thiagarajan/ADE_Streaming_Project/assets/96657323/64f4ac4d-eeec-4236-b027-4035fa1a960b)
 
+### 5. Output of Email received
+![image](https://github.com/Subramanian-Thiagarajan/ADE_Streaming_Project/assets/96657323/74d7f9ae-d6f1-4741-9a93-aab85cc26a10)
